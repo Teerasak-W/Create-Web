@@ -1,5 +1,2 @@
 # Create-Web
-
-ไม่มีอะไรค่ะ 0v0
-
-555555555
+refactor code
